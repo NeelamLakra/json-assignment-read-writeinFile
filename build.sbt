@@ -6,9 +6,6 @@ scalaVersion := "2.12.4"
 
 libraryDependencies += "log4j" % "log4j" % "1.2.17"
 
-
-//val json4s ="org.json4s" %% "json4s-core"  % "3.2.10"
-
 libraryDependencies +="org.json4s" %% "json4s-jackson" % "3.5.3"
 
 
